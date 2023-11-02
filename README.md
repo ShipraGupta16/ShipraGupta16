@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Shipra and I'm a skilled bioinformatics data analyst with a strong passion for creating beautiful data visualizations to tell a story. 
+My name is Shipra and I'm a skilled data analyst with a strong passion for creating beautiful data visualizations to tell a story. 
 
 ### Tech stack
 R, Python, SQL, JavaScript and Tableau
