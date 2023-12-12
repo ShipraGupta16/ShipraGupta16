@@ -8,9 +8,9 @@ R, Python, SQL, JavaScript and Tableau
 ### Some cool projects:
 [Cancer Treatment Testing](https://github.com/ShipraGupta16/Pymaceuticals) - A project that analyzes the effect of different cancer treatments on mice with time points, using Pandas and Matplotlib.
 
-[Alcohol consumption, fatalities and rehabs](https://github.com/ShipraGupta16/ShipraGupta16/assets/25715747/e955c5e2-93eb-4c68-8043-861183027868) - Interactive GeoJSON US state map visualizing the highest alcohol consumption rate, demographics on fatalities, and rehab facilities in 2022.
+[Alcohol consumption, fatalities and rehabs](https://github.com/ShipraGupta16/project-3) - Interactive GeoJSON US state map visualizing the highest alcohol consumption rate, demographics on fatalities, and rehab facilities in 2022.
 
-[Tableau dashboard](https://github.com/ShipraGupta16/ShipraGupta16/assets/25715747/66d05e18-119b-4455-928b-cf8393ebdbd9) - Created a dashboard to visualize New York City bike usage between 2022-2023 & analyzed the top 10 starting stations, peak hours, bike type, and membership!
+[Tableau dashboard](https://github.com/ShipraGupta16/city-bike-challenge) - Created a dashboard to visualize New York City bike usage between 2022-2023 & analyzed the top 10 starting stations, peak hours, bike type, and membership!
 
 
 <!--
