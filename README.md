@@ -12,7 +12,7 @@ R, Python, SQL, JavaScript and Tableau
 
 [Tableau dashboard](https://github.com/ShipraGupta16/city-bike-challenge) - Created a dashboard to visualize New York City bike usage between 2022-2023 & analyzed the top 10 starting stations, peak hours, bike type, and membership.
 
-[Wine quality prediction](https://github.com/ShipraGupta16/Wine-quality) - Predicting the wine quality using machine learning algorithms.
+[Wine quality prediction](https://github.com/ShipraGupta16/Wine-quality) - Predicting the wine quality using machine learning techniques such as PCA clustering, random forest, decision trees, optimization of NN model.
 
 <!--
 **ShipraGupta16/ShipraGupta16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
