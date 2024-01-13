@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Shipra and I'm a skilled data analyst with a strong passion for creating beautiful data visualizations to tell a story. 
+My name is Shipra and I'm a skilled data analyst with a strong passion for creating visually appealing and intuitive data visualizations to tell a story. 
 
 ### Tech stack
-R, Python, SQL, JavaScript and Tableau
+R, Python, SQL, NoSQL, JavaScript and Tableau
 
 ### Some cool projects:
 [Cancer Treatment Testing](https://github.com/ShipraGupta16/Pymaceuticals) - Analyzed the effect of different cancer treatments on mice with time points using Pandas and Matplotlib.
